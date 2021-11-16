@@ -1,3 +1,3 @@
 # Increment-counter
-Simple counter built using js
+Simple counter built using js <br>
 PS : First project using js
