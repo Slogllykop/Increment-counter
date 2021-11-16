@@ -64,5 +64,6 @@
     background-color: var(--background-color);
     flex-direction: column;
     border: 1rem solid white;
+    text-align: center;
 }
 
